@@ -1091,8 +1091,8 @@
 			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-			baackground-image: url("../../images/nyc.png");
-			background-position: center;
+			background-image: url("../../images/record-white.jpg");
+			background-position: center -113px;
 			background-size: cover;
 			background-repeat: no-repeat;
 			z-index: 1;
